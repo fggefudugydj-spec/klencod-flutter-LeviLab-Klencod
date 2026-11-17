@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LeviLab</string>
+    <string name="embedded_activity_label">LeviLab Game Host</string>
+</resources>

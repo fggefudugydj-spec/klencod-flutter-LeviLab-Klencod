@@ -1,0 +1,6 @@
+{
+  "name": "LeviLab",
+  "description": "Minecraft Bedrock in-process launcher, APK/ELF64 probe, library validator, SAF world backup, and Bedrock server pinger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
